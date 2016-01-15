@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns       = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "org.coenraets.employeedirectory"
+        id          = "de.lp-energy.baustelle"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.0.0">
  
-    <name>Employee Directory</name>
+    <name>LP</name>
  
     <description>
-        A simple employee directory application
+        LP Energy Mitarbeiter App
     </description>
  
-    <author href="http://coenraets.org" email="ccoenraets@gmail.com">
-        Christophe Coenraets
+    <author href="http://www.lp-energy.de" email="c.rudde@lp-energy.de">
+        Christian Rudde
     </author>
  
     <feature name="http://api.phonegap.com/1.0/camera"/>
